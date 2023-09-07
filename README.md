@@ -1,3 +1,3 @@
-# ASP.NET Minimal API Demo
+# ASP.NET Minimal Web API Demo
 
-A minimal ASP.NET API web service demo.
+A minimal ASP.NET Web API demo.
