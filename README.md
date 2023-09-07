@@ -1,2 +1,3 @@
-# dotnet-minimal-api-demo
+# .NET Minimal API Demo
+
 A minimal ASP.NET API service demo.
